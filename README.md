@@ -1,5 +1,3 @@
-# Teste-Caixa-Branca
-
 # **Notação de Grafo de Fluxo**
 
 O grafo de fluxo de controle baseado na imagem é composto pelos seguintes nós:
